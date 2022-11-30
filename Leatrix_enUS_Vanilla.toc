@@ -1,0 +1,10 @@
+﻿## Interface: 11403
+
+## Title: Leatrix enUS
+
+## Notes: English language for Leatrix addons.
+
+## Version: 1.0.00.alpha.1
+## Author: Leatrix
+
+Leatrix_enUS.lua
