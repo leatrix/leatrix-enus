@@ -1,10 +1,10 @@
-﻿## Interface: 100002
+﻿## Interface: 100005
 
 ## Title: Leatrix enUS
 
 ## Notes: English language for Leatrix addons.
 
-## Version: 1.0.00
+## Version: 1.0.01
 ## Author: Leatrix
 
 Leatrix_enUS.lua

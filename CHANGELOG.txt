@@ -1,2 +1,5 @@
-1.0.00.alpha.1 - 30th November 2022
+1.0.01 - 25th January 2023
+- Updated TOC versions.
+
+1.0.00 - 30th November 2022
 - Initial release.
